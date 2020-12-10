@@ -1,2 +1,2 @@
 # OrderBook
-Creating an order book for both buy and sell orders
+ An order book to buy and sell orders
