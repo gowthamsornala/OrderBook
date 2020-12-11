@@ -1,0 +1,3 @@
+
+('BUY DATA:', {'No.of Shares:245': 'Total Price:46628.4'})
+('SELL DATA:', {'No.of Shares:225': 'Price:4534.65'})
