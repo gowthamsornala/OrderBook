@@ -1,0 +1,5 @@
+
+('BUY DATA:', {'No.of Shares:250': 'Total Price:47580.0'})
+('SELL DATA:', {'No.of Shares:215': 'Price:ORDER TYPE: MARKET ORDER'})
+('BUY DATA:', {'No.of Shares:24': 'Total Price:4567.68'})
+('BUY DATA:', {'No.of Shares:224': 'Total Price:42631.68'})
